@@ -1,0 +1,192 @@
+data,categoria,descricao,valor,tipo
+2025-01-01,Alimentação,Restaurante,337.42,Despesa
+2025-01-01,Lazer,Bar,2004.45,Despesa
+2025-01-02,Freelance,Projeto de dados,1286.83,Receita
+2025-01-02,Alimentação,Supermercado,173.36,Despesa
+2025-01-02,Saúde,Consulta,1961.79,Despesa
+2025-01-03,Alimentação,Supermercado,1438.69,Despesa
+2025-01-03,Moradia,Condomínio,202.6,Despesa
+2025-01-03,Saúde,Consulta,2540.29,Despesa
+2025-01-04,Saúde,Consulta,970.62,Despesa
+2025-01-04,Lazer,Bar,2829.87,Despesa
+2025-01-05,Tesouro Direto,Tesouro Selic,1016.88,Investimento
+2025-01-05,Moradia,Condomínio,29.58,Despesa
+2025-01-06,Alimentação,Supermercado,514.42,Despesa
+2025-01-06,Transporte,Ônibus,617.91,Despesa
+2025-01-07,Lazer,Bar,1214.09,Despesa
+2025-01-07,Transporte,Ônibus,1222.25,Despesa
+2025-01-08,Freelance,Design gráfico,1348.29,Receita
+2025-01-08,Salário,Salário mensal,3566.76,Receita
+2025-01-09,Transporte,Uber,2249.91,Despesa
+2025-01-10,Salário,Salário mensal,2106.4,Receita
+2025-01-10,Salário,Salário mensal,2625.72,Receita
+2025-01-11,Moradia,Luz,2061.86,Despesa
+2025-01-11,Renda Fixa,LCI,1571.86,Investimento
+2025-01-12,Lazer,Netflix,2458.94,Despesa
+2025-01-13,Moradia,Aluguel,1025.54,Despesa
+2025-01-13,Moradia,Condomínio,2990.84,Despesa
+2025-01-13,Transporte,Combustível,2221.66,Despesa
+2025-01-14,Saúde,Farmácia,1819.66,Despesa
+2025-01-14,Transporte,Uber,975.67,Despesa
+2025-01-14,Transporte,Combustível,753.35,Despesa
+2025-01-15,Saúde,Consulta,894.97,Despesa
+2025-01-16,Salário,Salário mensal,1403.84,Receita
+2025-01-16,Saúde,Consulta,1192.3,Despesa
+2025-01-16,Transporte,Ônibus,1348.46,Despesa
+2025-01-17,Renda Fixa,LCI,2869.26,Investimento
+2025-01-17,Salário,Salário mensal,1319.12,Receita
+2025-01-18,Salário,Salário mensal,2990.51,Receita
+2025-01-18,Salário,Salário mensal,1270.72,Receita
+2025-01-18,Lazer,Bar,1212.86,Despesa
+2025-01-19,Saúde,Consulta,1494.44,Despesa
+2025-01-19,Moradia,Condomínio,1062.74,Despesa
+2025-01-19,Moradia,Aluguel,434.89,Despesa
+2025-01-20,Lazer,Cinema,472.87,Despesa
+2025-01-20,Saúde,Consulta,2581.26,Despesa
+2025-01-20,Alimentação,Restaurante,1123.09,Despesa
+2025-01-21,Freelance,Design gráfico,1099.05,Receita
+2025-01-22,Freelance,Projeto de dados,3756.77,Receita
+2025-01-22,Educação,Livros,1687.34,Despesa
+2025-01-22,Tesouro Direto,Tesouro Selic,255.14,Investimento
+2025-01-23,Saúde,Plano de saúde,2406.81,Despesa
+2025-01-23,Renda Fixa,CDB,2867.86,Investimento
+2025-01-24,Educação,Material escolar,2113.06,Despesa
+2025-01-24,Educação,Material escolar,2436.72,Despesa
+2025-01-25,Transporte,Uber,1796.43,Despesa
+2025-01-26,Freelance,Design gráfico,1109.3,Receita
+2025-01-26,Freelance,Projeto de dados,2245.12,Receita
+2025-01-27,Transporte,Uber,1180.23,Despesa
+2025-01-27,Moradia,Aluguel,1879.7,Despesa
+2025-01-27,Lazer,Cinema,1116.0,Despesa
+2025-01-28,Salário,Salário mensal,1482.83,Receita
+2025-01-29,Freelance,Projeto de dados,2953.43,Receita
+2025-01-30,Renda Fixa,CDB,1360.35,Investimento
+2025-01-30,Educação,Livros,96.65,Despesa
+2025-01-31,Freelance,Design gráfico,3597.4,Receita
+2025-01-31,Freelance,Design gráfico,3464.97,Receita
+2025-02-01,Tesouro Direto,Tesouro Selic,700.73,Investimento
+2025-02-01,Saúde,Plano de saúde,2753.37,Despesa
+2025-02-02,Salário,Salário mensal,1164.17,Receita
+2025-02-02,Freelance,Projeto de dados,3299.4,Receita
+2025-02-02,Salário,Salário mensal,2994.79,Receita
+2025-02-03,Moradia,Luz,2104.41,Despesa
+2025-02-03,Moradia,Aluguel,1954.78,Despesa
+2025-02-04,Saúde,Plano de saúde,292.49,Despesa
+2025-02-04,Freelance,Projeto de dados,1518.17,Receita
+2025-02-04,Tesouro Direto,Tesouro Selic,2763.28,Investimento
+2025-02-05,Tesouro Direto,Tesouro Selic,2061.23,Investimento
+2025-02-05,Salário,Salário mensal,2194.23,Receita
+2025-02-06,Saúde,Consulta,1023.58,Despesa
+2025-02-06,Saúde,Plano de saúde,412.78,Despesa
+2025-02-06,Transporte,Ônibus,1827.25,Despesa
+2025-02-07,Freelance,Projeto de dados,2301.66,Receita
+2025-02-08,Freelance,Projeto de dados,1061.91,Receita
+2025-02-08,Moradia,Aluguel,2617.3,Despesa
+2025-02-09,Tesouro Direto,Tesouro Selic,1895.43,Investimento
+2025-02-10,Alimentação,Restaurante,38.73,Despesa
+2025-02-10,Moradia,Luz,551.4,Despesa
+2025-02-10,Transporte,Combustível,2729.38,Despesa
+2025-02-11,Moradia,Luz,907.69,Despesa
+2025-02-11,Salário,Salário mensal,3789.94,Receita
+2025-02-11,Freelance,Design gráfico,1812.39,Receita
+2025-02-12,Salário,Salário mensal,3046.09,Receita
+2025-02-13,Educação,Curso,2922.13,Despesa
+2025-02-14,Freelance,Design gráfico,2666.55,Receita
+2025-02-14,Tesouro Direto,Tesouro Selic,1759.93,Investimento
+2025-02-15,Transporte,Uber,2522.46,Despesa
+2025-02-15,Educação,Material escolar,2673.21,Despesa
+2025-02-16,Saúde,Consulta,397.71,Despesa
+2025-02-16,Salário,Salário mensal,1553.14,Receita
+2025-02-16,Transporte,Uber,591.91,Despesa
+2025-02-17,Salário,Salário mensal,1966.42,Receita
+2025-02-18,Freelance,Projeto de dados,2626.24,Receita
+2025-02-18,Saúde,Plano de saúde,241.26,Despesa
+2025-02-19,Educação,Livros,229.89,Despesa
+2025-02-20,Educação,Material escolar,2040.0,Despesa
+2025-02-20,Educação,Livros,1520.18,Despesa
+2025-02-20,Salário,Salário mensal,1671.77,Receita
+2025-02-21,Salário,Salário mensal,1315.53,Receita
+2025-02-21,Renda Fixa,LCI,2535.37,Investimento
+2025-02-22,Salário,Salário mensal,3231.48,Receita
+2025-02-22,Educação,Material escolar,1082.61,Despesa
+2025-02-22,Lazer,Netflix,2996.24,Despesa
+2025-02-23,Renda Fixa,CDB,1163.05,Investimento
+2025-02-23,Freelance,Projeto de dados,3237.34,Receita
+2025-02-23,Freelance,Projeto de dados,3729.81,Receita
+2025-02-24,Lazer,Bar,2513.15,Despesa
+2025-02-24,Freelance,Projeto de dados,1447.79,Receita
+2025-02-25,Transporte,Combustível,95.77,Despesa
+2025-02-26,Alimentação,Delivery,2966.87,Despesa
+2025-02-26,Salário,Salário mensal,1752.56,Receita
+2025-02-26,Moradia,Condomínio,2233.49,Despesa
+2025-02-27,Freelance,Design gráfico,2245.34,Receita
+2025-02-27,Alimentação,Supermercado,1550.4,Despesa
+2025-02-27,Salário,Salário mensal,3604.44,Receita
+2025-02-28,Freelance,Projeto de dados,2651.97,Receita
+2025-02-28,Saúde,Consulta,626.73,Despesa
+2025-03-01,Educação,Curso,1979.65,Despesa
+2025-03-01,Alimentação,Delivery,445.58,Despesa
+2025-03-02,Educação,Material escolar,2005.97,Despesa
+2025-03-02,Freelance,Projeto de dados,2786.39,Receita
+2025-03-03,Renda Fixa,CDB,1761.97,Investimento
+2025-03-03,Freelance,Design gráfico,1039.1,Receita
+2025-03-03,Alimentação,Supermercado,2654.39,Despesa
+2025-03-04,Saúde,Plano de saúde,2038.15,Despesa
+2025-03-04,Salário,Salário mensal,3631.26,Receita
+2025-03-05,Lazer,Bar,2123.12,Despesa
+2025-03-05,Salário,Salário mensal,3904.0,Receita
+2025-03-06,Freelance,Design gráfico,2240.08,Receita
+2025-03-06,Freelance,Design gráfico,2808.27,Receita
+2025-03-07,Lazer,Bar,1144.98,Despesa
+2025-03-08,Transporte,Ônibus,467.41,Despesa
+2025-03-08,Freelance,Projeto de dados,1926.11,Receita
+2025-03-09,Alimentação,Delivery,1983.3,Despesa
+2025-03-09,Lazer,Netflix,2626.32,Despesa
+2025-03-09,Educação,Curso,182.28,Despesa
+2025-03-10,Saúde,Farmácia,1181.48,Despesa
+2025-03-10,Saúde,Consulta,2356.76,Despesa
+2025-03-10,Moradia,Condomínio,331.92,Despesa
+2025-03-11,Salário,Salário mensal,2850.33,Receita
+2025-03-11,Moradia,Aluguel,878.8,Despesa
+2025-03-12,Freelance,Projeto de dados,2051.79,Receita
+2025-03-12,Freelance,Design gráfico,1822.85,Receita
+2025-03-13,Alimentação,Supermercado,2953.8,Despesa
+2025-03-13,Educação,Curso,2345.3,Despesa
+2025-03-14,Educação,Livros,2224.58,Despesa
+2025-03-14,Renda Fixa,LCI,2764.44,Investimento
+2025-03-15,Freelance,Projeto de dados,3355.48,Receita
+2025-03-15,Freelance,Design gráfico,1848.97,Receita
+2025-03-15,Lazer,Netflix,2841.48,Despesa
+2025-03-16,Moradia,Aluguel,2931.4,Despesa
+2025-03-16,Tesouro Direto,Tesouro Selic,973.88,Investimento
+2025-03-17,Freelance,Projeto de dados,2102.53,Receita
+2025-03-17,Salário,Salário mensal,1725.49,Receita
+2025-03-18,Freelance,Projeto de dados,2020.16,Receita
+2025-03-19,Transporte,Ônibus,2244.36,Despesa
+2025-03-19,Salário,Salário mensal,2611.54,Receita
+2025-03-19,Lazer,Cinema,629.36,Despesa
+2025-03-20,Moradia,Luz,413.33,Despesa
+2025-03-20,Saúde,Consulta,2720.77,Despesa
+2025-03-21,Alimentação,Supermercado,2718.93,Despesa
+2025-03-21,Moradia,Condomínio,1798.69,Despesa
+2025-03-22,Lazer,Netflix,2391.39,Despesa
+2025-03-23,Moradia,Condomínio,1727.19,Despesa
+2025-03-24,Alimentação,Delivery,1088.84,Despesa
+2025-03-24,Alimentação,Supermercado,1878.41,Despesa
+2025-03-24,Saúde,Farmácia,1375.98,Despesa
+2025-03-25,Moradia,Condomínio,416.88,Despesa
+2025-03-25,Salário,Salário mensal,1855.63,Receita
+2025-03-26,Alimentação,Delivery,1278.37,Despesa
+2025-03-26,Moradia,Luz,695.47,Despesa
+2025-03-27,Freelance,Projeto de dados,1557.47,Receita
+2025-03-27,Renda Fixa,LCI,1094.57,Investimento
+2025-03-27,Transporte,Ônibus,1767.96,Despesa
+2025-03-28,Educação,Material escolar,884.11,Despesa
+2025-03-28,Salário,Salário mensal,2925.17,Receita
+2025-03-29,Tesouro Direto,Tesouro Selic,388.98,Investimento
+2025-03-30,Moradia,Condomínio,2897.72,Despesa
+2025-03-30,Salário,Salário mensal,3426.47,Receita
+2025-03-30,Renda Fixa,LCI,1229.5,Investimento
+2025-03-31,Transporte,Uber,2342.82,Despesa
+2025-03-31,Saúde,Plano de saúde,487.55,Despesa
+2025-03-31,Saúde,Consulta,1992.67,Despesa
